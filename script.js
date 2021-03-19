@@ -1,7 +1,7 @@
 var searchBar = document.querySelector('#searchbar');
 var searchButton = document.querySelector('#searchbutton');
 
-var API_KEY = '';
+var API_KEY = 'ef1c4875324d0e3c275f2fe690d96608';
 
 searchButton.addEventListener("click", function() {
 
